@@ -2,6 +2,8 @@
 
 #include "DigiKeyboard.h"
 
+#define KEY_ESC 41  
+
 const uint8_t BUTTON_PIN = 0;  // P0 on silkscreen
 const uint8_t LED_PIN = 1;     // P1 on silkscreen
 
